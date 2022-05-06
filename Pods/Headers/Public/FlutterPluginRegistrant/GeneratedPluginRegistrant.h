@@ -1,0 +1,1 @@
+../../../../../flutter-module-chat/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.h
